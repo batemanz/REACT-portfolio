@@ -13,11 +13,10 @@
   * [Links](#links)
   
   ## Description 
-  Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.
+  Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects. a portfolio using new React skills, which will help set me apart from other developers whose portfolios don’t use the latest technologies.
 
   ## Installation
-  to install please run this command
-  a portfolio using new React skills, which will help set me apart from other developers whose portfolios don’t use the latest technologies.
+  to install please run this command node index.js
 
   ## Usage
   portfolio 
